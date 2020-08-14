@@ -1,0 +1,36 @@
+_repo: Ao-Entardecer-Contos-Varios_62896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taunay, Alfredo d'Escragnolle Taunay, Visconde de
+    aliases:
+    - Dinarte, Sílvio
+    - D'Escragnolle Taunay, Alfredo, Visconde de Taunay
+    - Dinarte, Sylvio
+    - Dinarte, Silvio
+    - Escragnolle Taunay, Alfredo de
+    birthdate: 1843
+    deathdate: 1899
+    gutenberg_agent_id: '36495'
+    url: http://www.gutenberg.org/2009/agents/36495
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay,_Viscount_of_Taunay
+    - https://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay
+description: ''
+gutenberg_issued: '2020-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62896'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Brazilian'
+- !lcc 'PQ'
+- !lcsh 'Brazilian fiction'
+- GITenberg
+tableOfContents: Pobre menino -- Ciganinha -- Cabeça e coração -- Uma vingança --
+  Rapto original -- O estorvo.
+title: Ao Entardecer (Contos Varios)
+url: http://www.gutenberg.org/ebooks/62896
